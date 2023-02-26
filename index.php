@@ -9,6 +9,7 @@ $expense_types = $stmt->fetchAll();
 ?>
 
 <head>
+    <title>Budget App</title>
     <meta charset="UTF-8" />
     <!-- ✅ Load CSS file for jQuery UI  -->
     <link href="https://code.jquery.com/ui/1.12.1/themes/ui-lightness/jquery-ui.css" rel="stylesheet" />
